@@ -1,0 +1,40 @@
+Project: Group Project 06
+Meeting: Meeting 3 (Without Neal) 
+Persons present: Jack Harding, Dan Hodgkins, James Beech, Jan Kumanek, Steve Norwood, 
+Persons absent: James Elliot (Asleep), Charlie Parr (Doctors), Jordan Springett (Down the hill), [Luke Dearden, Anand Gill, Michael Kitchen (No reason)]
+Place and date of meeting: Rosser Lounge, Friday 17th October 2014 
+Circulation list: All project members, plus project manager 
+Author: Steve Norwood 
+Date of minutes: 17th October. 
+Version: 1.0
+
+Matters Arising
+Facebook
+People must like posts about organised meeting reminders to show that they have read the post, as it’s the most reliable way to let people know that you know that the meeting is on.
+Action: all
+If conversations are going on between groups (Android, Server, Website), add Steve (sjn3) or Jack (jah91) so managers can keep track on things
+Action: all
+Website
+Can Dan/James use bootstrap? Nigel said there’s nothing against it, Jack to check
+Action: jah91
+Blogs
+Set up blogs and send to Neal
+Action: all
+
+New Business
+QA Documents
+Everyone must read documents 1-5 and 8-9 as they are the ones that matter. 
+Action: all
+
+
+Work for Tuesday
+Jack will be sending out emails to each separate group (Android, Server, Website) to send checklists of what needs doing for the plan (hopefully by Tuesday)
+Use cases need to be done, TODO list for gantt chart, vague designs, partial risk analysis (jot things down if you think of them
+Action: jah91, then everyone to do work
+GitHub
+Make specific folders for groups, as well as a main one. Post spec docs to Git also
+Action: jah91
+AOB
+Holidays
+James (jpe5) on holiday this weekend. Jan (jmk6) away Friday-Monday (24th-27th)
+

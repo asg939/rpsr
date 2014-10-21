@@ -1,0 +1,28 @@
+Project: Group Project 06
+Meeting: Meeting 1 
+Persons present: Jan Kumanek, James Beech, Jack Harding, Jordan Springett, Steve Norwood, Luke Dearden, Dan Hodgkins, James Elliott, Michael Kitchen
+Persons absent: [Anand Gill, Charlie Parr (No reasons given)]
+Place and date of meeting: C165, 7th October 2014
+Circulation list: All project members, plus project manager 
+Author: Jack Harding, Steve Norwood
+Date of minutes: 20th October. 
+Version: 1.0
+Matters Arising
+N/A
+New Business
+Project Manager
+The project manager for our group project will be Neal Snooke (nns) 
+GitHub
+A company and repository needs to be created for the group to be joined
+Action: jos60
+Wordpress Blogs
+Set up wordpress blogs for Project Manager/Leader to look at personal tasks you will be completing throughout the project
+Action: all
+Blackboard Documents
+Look at the project spec and the deadlines for the deliverables
+Action: all
+Group roles
+Look at the roles needed for the team for next week
+Action: all
+AOB
+None

@@ -1,0 +1,43 @@
+Project: Group Project 06
+Meeting: Meeting 4
+Persons present: Jan Kumanek, James Beech, Jack Harding, Jordan Springett, Steve Norwood, Luke Dearden, Dan Hodgkins, James Elliott, Michael Kitchen, Anand Gill, 
+Persons absent: Charlie Parr (No excuse)
+Place and date of meeting: C165, 21th October 2014
+Circulation list: All project members, plus project manager 
+Author: Steve Norwood
+Date of minutes: 21st October
+Version: 1.0
+Matters Arising
+Minutes
+Change meeting numbers and check versions. Send out minutes in a .txt file as well as a .docx for all to read.
+Action: sjn3
+Holiday
+Jordan holiday this weekend. Gregynog people will be away. Jack to make google calendar. 
+Website bootstrap
+We believe that it’s all okay to use bootstrap for the website.
+New Business
+Google Docs
+Jordan to set up google docs for documentations before pushing to git to stop conflicts
+Action: Jordan
+Project Plan
+Each group needs Use Case, Dependencies for Gantt Chart, UI designs (with explanations), Jot down things that may be difficult, or thing’s that will cause problems. Jack will put up a list to confirm the above for each group, along with important documents for the task. Each task will need a name to sign off (one name per task), with names for each sub-task also. Confirm who’s doing what task by Wednesday, for completion by Friday’s meeting.
+Action: all
+Other module deadlines
+Find the deadline’s for other module deadlines to ensure that a large workload won’t occur near someone’s deadline. Add to google calendar mention previously
+Action: Jack
+Friday Meeting
+Book a room in the Geography Concourse for the meeting.
+Action: Jack
+Website Domain
+Find out where we will be putting the domain for the website, to avoid using our own usernames.
+Action: nns
+Blogs
+Ensure all work is recorded in a document or a blog. Write a document with everyone’s blog/area where they are recording work to find everyone’s records easily. Send blog locations to Jack
+Action: All 
+Documents to read
+SEQA.RS SEQA.03
+Action: All
+AOB
+Absence
+Jack chase up where Charlie was
+Action: Jack

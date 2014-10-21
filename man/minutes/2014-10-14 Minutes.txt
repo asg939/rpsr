@@ -1,0 +1,28 @@
+Project: Group Project 06
+Meeting: Meeting 2 
+Persons present: Jan Kumanek, James Beech, Jack Harding, Jordan Springett, Steve Norwood, Luke Dearden, Dan Hodgkins, James Elliott, Michael Kitchen, Anand Gill, Charlie Parr
+Persons absent: N/A
+Place and date of meeting: C165, 14th October 2014
+Circulation list: All project members, plus project manager 
+Author: Jack Harding, Steve Norwood
+Date of minutes: 20th October. 
+Version: 1.1
+Matters Arising
+Group roles
+Group Leader – Jack Harding
+Deputy Leader – Jordan Springett
+QA Manager – Steve Norwood
+Deputy QA – Anand Gill
+GitHub
+Jordan has set up a git organisation for everyone to join, and people should do so. Minutes shall also be posted in the GitHub repo
+Action: all
+New Business
+Team Assignments
+General team allocation for different sections of the specification. Roles will be switched around accordingly as the project progresses. Teams will begin on looking at things to work towards for the project plan deliverable. More discussion next meeting (Friday)
+Android: Michael, James Beech, Steve, Luke
+Website: Anand, Dan, James Elliott
+Database/Server: Jordan, Jan, Charlie
+AOB
+None
+
+Changelog v1.1: Added Luke to Android team and fixed meeting number. Signed: sjn3
