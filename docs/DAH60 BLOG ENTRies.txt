@@ -2,5 +2,5 @@ ACTION LOG
 20/10/14 – (3pm – 5pm) – meeting with Dan to discuss and write up the website spec using the documentation found on blackboard. Version 0.01 of project plan created.
 20/10/14 – (9pm – 11pm ) –  Website scouting took place: looking for inspiration from other websites. Both templates added to the design spec, added introduction, edition updated to 0.02 
 22/10/14 – (4pm – 5pm ) – Tasks outlined on facebook, updated to 0.03. Overview edited, PHP and SQLite researched for potential use within the website. Also API of google maps and Grid based search researched. Gantt chart schedule added, use cases added, risks analysed.
-
+26/10/14 – (4.20pm – 4.40pm ) – Addendum required, outlined by Steve. v0.04 use cases altered and expanded
 Dah60 all copyright included
