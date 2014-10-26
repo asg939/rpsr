@@ -1,0 +1,5 @@
+
+# 26/10/14
+
+- Looked at Java Servlets as a way for implementing our server
+- Put together a draft version of the server aspects of the project plan specification document

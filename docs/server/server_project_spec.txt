@@ -1,0 +1,20 @@
+
+Author: Jordan Springett
+Date: 26/10/14
+
+# Overview
+
+To implement the server, the Java programming language will be used. We can take advantage of Java servlets which are used to extend the capabilities of a server. MySQL will function as our database which will store all our information. Java servlets will deal with communicating with the database by parsing HTTP requests.
+
+# Use Case
+
+Server
+	- Add / edit site information
+	- Add / edit species details
+	- Add / edit recordings
+	- Process and return database requests
+	- Communicate with phone
+	- Authenticate login
+	- Register user
+
+# Risk Analysis
