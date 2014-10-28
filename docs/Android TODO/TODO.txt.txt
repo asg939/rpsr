@@ -1,0 +1,8 @@
+For project plan:
+
+- Fix contents page
+- Insert Gantt chart
+- Complete risk analysis
+- Check QA docs
+- Insert footer
+- Change first page footer
