@@ -9,12 +9,9 @@ To implement the server, the Java programming language will be used. We can take
 # Use Case
 
 Server
-	- Add / edit site information
-	- Add / edit species details
-	- Add / edit recordings
-	- Process and return database requests
-	- Communicate with phone
-	- Authenticate login
-	- Register user
-
-# Risk Analysis
+	- Add / edit site information: Takes data about a site and either adds the site to the database if it doesn't already exist or updates the existing site's stored data. The data arrives from the android app and fulfils FR7
+    - Add / edit species details: Takes data about a species and either add the species to the database if it doesn't already exist or updates the existing species's stored data. The data arrives from the android app and fulfils FR7.
+    - Add / edit recordings: Takes data about a recording and stores it in the database. The data arrives from the android app and fulfils RF7
+    - Process and return database requests: Receives a request from the android app for items from the database and then sends that data to the android app.
+    - Authenticate login: Receives login data from the android app and decides if that user is a valid. If so it authenticates the login and informs the app of this.
+    - Register user: Receives user registration data and creates a new user in the database
