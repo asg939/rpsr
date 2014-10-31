@@ -1,0 +1,27 @@
+Project: Group Project 06
+Meeting: Meeting 6
+Persons present: James Beech, Jack Harding, Jordan Springett, Steve Norwood, Luke Dearden, Dan Hodgkins, James Elliott, Michael Kitchen, Anand Gill, 
+Persons absent: Charlie Parr (No excuse), Jan Kumanek (Holiday)
+Place and date of meeting: C165, 28th October 2014
+Circulation list: All project members, plus project manager 
+Author: Steve Norwood
+Date of minutes: 31st October
+Version: 1.0
+Matters Arising
+Project Plan
+Handed in to project manager Neal on time, all okay
+Absences
+Last warning to be given to Charlie about attendance, as he has only turned up to one meeting and not contributed to the project as of yet.
+Action: jah91
+Blogs
+All blogs must be made, and a link of all blogs must be made on GitHub, and sent off to Neal.
+Action: all, sjn3 to send
+New Business
+New Deliverable
+Test specification is the next thing to deliver, deadline 11th November. Everyone must read SE.QA.06 Test procedure standards for Friday, and everyone must read the Requirements Specification and note down a list of tests that could be made for your specific part of the system
+Action: all
+Plant species list
+Work out how to deal with the .txt file we must read from. Jordan will write a script for this.
+Action: jos60
+AOB
+N/A
