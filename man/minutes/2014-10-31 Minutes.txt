@@ -1,0 +1,22 @@
+Project: Group Project 06
+Meeting: Meeting 7
+Persons present: James Beech, Jack Harding, Jordan Springett, Steve Norwood, Luke Dearden, Anand Gill, Jan Kumanek
+Persons absent: Charlie Parr, Dan Hodgkins, James Elliott, Michael Kitchen (No excuse)
+Place and date of meeting: Geography Concourse, 31th October 2014
+Circulation list: All project members, plus project manager 
+Author: Steve Norwood
+Date of minutes: 31st October
+Version: 1.0
+Matters Arising
+Logs
+Re-organized Git to contain blogs. Everyone must edit the files to either link to blogs, or being .txt files.
+Action: all
+New Business
+New Documents
+Created a new Google Doc for everyone to begin writing their sections of the test specification. Needs to be completed by Tuesday’s meeting
+Action: all
+Database data
+Jan to work out what data will need to be stored on the database.
+Action: jmk6
+AOB
+N/A
