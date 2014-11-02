@@ -1,0 +1,4 @@
+20/10/2014 - (3pm to 5pm) - Meeting with Dan to discuss and write up the website spec using the documentation found on blackboard. Version 0.01 of project plan created.
+20/10/2014 - (9pm to 11pm) - Website scouting took place: looking for inspiration from other websites. Both templates added to the design spec, added introduction, edition updated to 0.02.
+21/10/2014 - (10pm to 2am) - Research into the bootstrap functionalities, .css files and html files. Began a mock up of the website to have a presentable and slick layout.
+22/10/2014 - (1pm to 5:30pm) - Added website functionality and improved graphics. Created separate html pages for home, catalogue and about. I then added text to the about page and created the login html page. 	
